@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="ncl30_eclipse"
+      label="NCL Eclipse"
+      version="1.3.0"
+      provider-name="Laws and Telemidia Labs"
+      os="linux,win32"
+      ws="gtk,win32"
+      nl="en"
+      arch="x86,x86_64">
+
+   <description url="http://laws.deinf.ufma.br/ncleclipse/description">
+      This feature provides NCL Eclipse plug-in to support NCL development in Eclipse. NCL Eclipse can help the author with autocomplete, error marking and many other facilities. Additionaly, this feature also provides the NCL Club integration that helps the users browsing and downloading NCL applications examples from the NCL Club repository.
+   </description>
+
+   <copyright url="http://laws.deinf.ufma.br/ncleclipse/copyright">
+      [Enter Copyright Description here.]
+   </copyright>
+
+   <license url="http://laws.deinf.ufma.br/ncleclipse/license">
+      [Enter License Description here.]
+   </license>
+
+   <url>
+      <update label="NCL Eclipse Update Site" url="http://laws.deinf.ufma.br/ncleclipse/update"/>
+      <discovery label="Oficial NCL Eclipse site" url="http://laws.deinf.ufma.br/ncleclipse"/>
+      <discovery label="Laboratory of Advanced Web Systems" url="http://laws.deinf.ufma.br"/>
+      <discovery label="Ginga - Brasilian Digital Television System" url="http://www.ginga.org.br"/>
+      <discovery label="Software Público" url="http://www.softwarepublico.gov.br"/>
+      <discovery label="Telemidia Labs" url="http://www.telemidia.puc-rio.br"/>
+   </url>
+
+   <plugin
+         id="ncl30_eclipse_club"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
+
+   <plugin
+         id="ncl_eclipse"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
+
+</feature>
