@@ -10,7 +10,7 @@
       arch="x86,x86_64">
 
    <description url="http://laws.deinf.ufma.br/ncleclipse/description">
-      This feature provides NCL Eclipse plug-in to support NCL development in Eclipse. NCL Eclipse can help the author with autocomplete, error marking and many other facilities. Additionaly, this feature also provides the NCL Club integration that helps the users browsing and downloading NCL applications examples from the NCL Club repository.
+      This feature provides NCL Eclipse plug-in to support NCL development in Eclipse. NCL Eclipse can help the author with autocomplete, error marking and many other facilities. Additionally, this feature also provides the NCL Club integration that helps the users browsing and downloading NCL applications examples from the NCL Club repository.
    </description>
 
    <copyright url="http://laws.deinf.ufma.br/ncleclipse/copyright">
