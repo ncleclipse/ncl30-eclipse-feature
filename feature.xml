@@ -2,7 +2,7 @@
 <feature
       id="br.ufma.deinf.laws.ncleclipse.feature"
       label="NCL Eclipse"
-      version="1.4.6"
+      version="1.4.10"
       provider-name="Laws and Telemidia Labs"
       os="linux,win32"
       ws="gtk,win32"
