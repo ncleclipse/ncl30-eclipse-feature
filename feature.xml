@@ -2,7 +2,7 @@
 <feature
       id="br.ufma.deinf.laws.ncleclipse.feature"
       label="NCL Eclipse"
-      version="1.4.20"
+      version="1.4.20.qualifier"
       provider-name="Laws and Telemidia Labs">
 
    <description url="http://laws.deinf.ufma.br/ncleclipse/description">
