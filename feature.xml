@@ -2,12 +2,8 @@
 <feature
       id="br.ufma.deinf.laws.ncleclipse.feature"
       label="NCL Eclipse"
-      version="1.4.12"
-      provider-name="Laws and Telemidia Labs"
-      os="linux,win32"
-      ws="gtk,win32"
-      nl="en"
-      arch="x86,x86_64">
+      version="1.4.20"
+      provider-name="Laws and Telemidia Labs">
 
    <description url="http://laws.deinf.ufma.br/ncleclipse/description">
       This feature provides NCL Eclipse plug-in to support NCL development in Eclipse. NCL Eclipse can help the author with autocomplete, error marking and many other facilities. Additionally, this feature also provides the NCL Club integration that helps the users browsing and downloading NCL applications examples from the NCL Club repository.
@@ -21,15 +17,6 @@
       [Enter License Description here.]
    </license>
 
-   <url>
-      <update label="NCL Eclipse Update Site" url="http://laws.deinf.ufma.br/ncleclipse/update"/>
-      <discovery label="Oficial NCL Eclipse site" url="http://laws.deinf.ufma.br/ncleclipse"/>
-      <discovery label="Laboratory of Advanced Web Systems" url="http://laws.deinf.ufma.br"/>
-      <discovery label="Ginga - Brasilian Digital Television System" url="http://www.ginga.org.br"/>
-      <discovery label="Software Público" url="http://www.softwarepublico.gov.br"/>
-      <discovery label="Telemidia Labs" url="http://www.telemidia.puc-rio.br"/>
-   </url>
-
    <requires>
       <import plugin="org.eclipse.core.runtime"/>
       <import plugin="org.eclipse.ui"/>
@@ -42,7 +29,7 @@
       <import plugin="org.eclipse.debug.core"/>
       <import plugin="org.eclipse.debug.ui"/>
       <import plugin="org.eclipse.ui.console"/>
-      <import plugin="org.eclipse.gef" version="3.4.1" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.core.filesystem"/>
       <import plugin="org.apache.xerces" version="2.9.0" match="greaterOrEqual"/>
    </requires>
 
