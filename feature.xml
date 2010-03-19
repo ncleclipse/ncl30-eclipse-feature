@@ -6,15 +6,31 @@
       provider-name="Laws and Telemidia Labs">
 
    <description url="http://laws.deinf.ufma.br/ncleclipse/description">
-      This feature provides NCL Eclipse plug-in to support NCL development in Eclipse. NCL Eclipse can help the author with autocomplete, error marking and many other facilities. Additionally, this feature also provides the NCL Club integration that helps the users browsing and downloading NCL applications examples from the NCL Club repository.
+      This feature provides NCL Eclipse. NCL Eclipse is a plug-in to
+support NCL development in Eclipse. NCL Eclipse can help authors
+with autocomplete, marking error and many other facilities.
+Additionally, this feature also provides the NCL Club integration
+that helps the users browsing and downloading NCL applications
+examples from the NCL Club repository.
    </description>
 
    <copyright url="http://laws.deinf.ufma.br/ncleclipse/copyright">
-      [Enter Copyright Description here.]
+      Copyright (C) 2007-2009, Laws - Laboratory of Advanced Web Systems
+at UFMA (http://laws.deinf.ufma.br/)
    </copyright>
 
    <license url="http://laws.deinf.ufma.br/ncleclipse/license">
-      [Enter License Description here.]
+      This program is free software: you can redistribute it and/or
+modify it under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of
+the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details. You should have
+received a copy of the GNU General Public License
+along with this program.  If not, see http://www.gnu.org/licenses/.
    </license>
 
    <requires>
