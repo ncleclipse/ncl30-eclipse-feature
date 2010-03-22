@@ -2,7 +2,7 @@
 <feature
       id="br.ufma.deinf.laws.ncleclipse.feature"
       label="NCL Eclipse"
-      version="1.4.20.qualifier"
+      version="1.5.0.qualifier"
       provider-name="Laws and Telemidia Labs">
 
    <description url="http://laws.deinf.ufma.br/ncleclipse/description">
@@ -35,7 +35,6 @@ along with this program.  If not, see http://www.gnu.org/licenses/.
 
    <url>
       <discovery label="Galileo" url="http://download.eclipse.org/releases/galileo"/>
-      <discovery label="The Eclipse Project Updates" url="http://download.eclipse.org/eclipse/updates/3.5"/>
    </url>
 
    <requires>
