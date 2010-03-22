@@ -33,6 +33,11 @@ received a copy of the GNU General Public License
 along with this program.  If not, see http://www.gnu.org/licenses/.
    </license>
 
+   <url>
+      <discovery label="Galileo" url="http://download.eclipse.org/releases/galileo"/>
+      <discovery label="The Eclipse Project Updates" url="http://download.eclipse.org/eclipse/updates/3.5"/>
+   </url>
+
    <requires>
       <import plugin="org.eclipse.core.runtime"/>
       <import plugin="org.eclipse.ui"/>
